@@ -2,7 +2,6 @@
 # GitHub
 ## About GitHub : 
 GitHub is a **distributed** Version control system ( also known as Source code management) used for tracking changes to the file(s).
-* GitHub provides a platform for multiple developers to work simultaneously.
 * GitHub adds flexibility to developers to keep track of file changes locally during offline and can later push changes to server when required.
 * GitHub is heavily used for open source projects.
 
